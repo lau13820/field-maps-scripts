@@ -96,4 +96,4 @@ dependencies:
   - zlib=1.2.13=hfb2fe0b_6
   - zstandard=0.22.0=py312h1a4646a_0
   - zstd=1.5.5=hd90d995_2
-prefix: /Users/lau13820/miniconda3
+
